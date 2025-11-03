@@ -1,6 +1,6 @@
-#Employee Attrition Prediction - Classification
+# Employee Attrition Prediction - Classification
 
-#Dataset Information
+# Dataset Information
 
 This dataset contains information about employees working in a company, including demographic, job-related, and satisfaction factors. They aim to predict whether an employee will leave the company (Attrition = Yes) or stay (Attrition = No), helping organizations take data-driven actions to reduce attrition and improve employee retention.
 
@@ -21,9 +21,10 @@ Attrition	Target variable – whether the employee left the company (Yes/No)
 
 Download link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-Libraries
+# Libraries
 <li>pandas <li>numpy <li>matplotlib <li>seaborn <li>scikit-learn
-Algorithms
+  
+# Algorithms
 <li>Logistic Regression <li>Decision Tree Classifier <li>Random Forest Classifier <li>Support Vector Machine (SVM)
 
 Best Model Accuracy: 89.00
